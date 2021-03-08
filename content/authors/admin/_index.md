@@ -1,39 +1,24 @@
 ---
 # Display name
-title: Evangelos Vlachos
+title: Κώστας Βλάχος
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant Professor (Researcher Grace C)
+role: Αναπληρωτής Καθηγητής
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Industrial Systems Institute / "ATHENA" Research Center
+- name: Τομέας Θεωρητικής και Μαθηματικής Φυσικής, Αστρονομίας και Αστροφυσικής, Τμήμα Φυσικής, Πανεπιστήμιο Πατρών
   url: https://www.isi.gr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include wireless communications, cyber-physical-systems and distributed optimization and control.
-
-# Interests to show in About widget
-interests:
-- Wireless Communications
-- Cyber-Physical Systems
-- Distributed and Adaptive Optimization and Control
+bio:
 
 # Education to show in About widget
 education:
-  courses:
-  - course: PhD in Signal Processing for Wireless Communications
-    institution: University of Patras, Greece
-    year: 2015
-  - course: MEng in Signal Processing and Machine Learning
-    institution: University of Patras, Greece
-    year: 2009
-  - course: BSc in Signal Processing and Wireless Communications
-    institution: University of Patras, Greece
-    year: 2005
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +55,7 @@ email: ""
 highlight_name: true
 ---
 
-Evangelos Vlachos received the Diploma degree in Computer Engineering and Informatics, the MSc degree in Signal Processing and Telecommunications and the PhD degree in Signal Processing for Wireless Communications from University of Patras (UoP), Greece, in 2005, 2009 and 2015, respectively. From 2015 to 2016 was a post-doctoral researcher at the Laboratory of Signal Processing and Telecommunications in Computer Engineering and Informatics (SPClab, UoP), working on distributed signal processing over networks. During 2016 worked as a post-doctoral researcher at the Visualization and Virtual Reality Group (VVRgroup, UoP), on graph signal processing and received best paper award from IEEE ICME2017. From 2017 to 2019, he worked as research associate at the Institute for Digital Communications (IDCOM, University of Edinburgh), on low complexity signal processing for millimeter wave and next generation wireless communications. In 2019, was elected Research Associate (Research Assistant Professor) on intelligent control for industrial and cyber-physical systems at Industrial Systems Institute, ‘‘ATHENA’’ Research Centre, in Patras, Greece. His general research interest include, wireless communications, machine learning and optimization, adaptive control and filtering algorithms.
+Με καταγωγή από τη Μενδενίτσα, ο Κωνσταντίνος Βλάχος του Ευαγγέλου γεννήθηκε στις 14 Σεπτεμβρίου 1951 στην Ηλιούπολη Αττικής. Μέρος της υποχρεωτικής του εκπαίδευσης το ολοκλήρωσε στο Δημοτικό Σχολείο Μενδενίτσης (1958-1960). Σπούδασε στο Τμήμα Μαθηματικών του Πανεπιστημίου Πατρών, απ’ όπου έλαβε και το πτυχίο του στις 16 Ιανουαρίου το 1975, και το 1983 έλαβε το Διδακτορικό του από το ίδιο τμήμα. Το 1983 εκλέχθηκε Λέκτορας του τμήματος Μαθηματικο-φυσικό, και το 1995 εκλέχθηκε Αναπληρωτής Καθηγητής του τμήματος Φυσικής του Πανεπιστημίου Πατρών. Η ερευνητική του δραστηριότητα αφορούσε προβλήματα Κβαντικής Στατιστικής Φυσικής και Δυναμικών Συστημάτων, με έμφαση στην μελέτη των θερμοδυναμικών ιδιοτήτων μη-αρμονικών ταλαντωτών. Το 1986 και το 1995 διατέλεσε επισκέπτης ερευνητής στο Πανεπιστήμιο της Φλωρεντίας και στο Πανεπιστήμιο της Βαρσοβίας αντίστοιχα. Έχει επιβλέψει έναν μεγάλο αριθμό από διδακτορικές διατριβές και μεταπτυχιακές εργασίες. Το συγγραφικό του έργο περιλαμβάνει  πανεπιστημιακά συγγράμματα και επιστημονικές δημοσιεύσεις σε διεθνή περιοδικά με κριτές. Απεβιωσε το 2011. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/EvangelosVlachosCVfull.pdf" "newtab" >}}Full CV{{< /staticref >}}.
