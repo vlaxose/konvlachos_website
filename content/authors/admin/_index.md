@@ -11,7 +11,6 @@ role: Αναπληρωτής Καθηγητής
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Τομέας Θεωρητικής και Μαθηματικής Φυσικής, Αστρονομίας και Αστροφυσικής, Τμήμα Φυσικής, Πανεπιστήμιο Πατρών
-  url: https://www.isi.gr
 
 # Short bio (displayed in user profile at end of posts)
 bio:
