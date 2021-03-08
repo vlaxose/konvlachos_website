@@ -17,8 +17,7 @@ bio:
 
 # Education to show in About widget
 education:
- 1970 - 1974 Diploma in Mathematics, University of Patras, Patras, Greece
- 1975 - 1983 Ph.D. in Theoretical Physics, University of Patras, Patras, Greece
+
 
 
 
