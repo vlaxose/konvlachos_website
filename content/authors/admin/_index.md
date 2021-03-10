@@ -10,7 +10,7 @@ role: Αναπληρωτής Καθηγητής
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Τομέας Θεωρητικής και Μαθηματικής Φυσικής, Αστρονομίας και Αστροφυσικής, Τμήμα Φυσικής, Πανεπιστήμιο Πατρών
+- name: Τομέας Θεωρητικής και Μαθηματικής Φυσικής, Αστρονομίας και Αστροφυσικής, Πανεπιστήμιο Πατρών
 
 # Short bio (displayed in user profile at end of posts)
 bio:
