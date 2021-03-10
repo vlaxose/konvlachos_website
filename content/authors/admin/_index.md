@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Κώστας Βλάχος &#8224;
+title: Κώστας Βλάχος†
 
 # Is this the primary user of the site?
 superuser: true
