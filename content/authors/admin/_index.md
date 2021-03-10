@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Κώστας Βλάχος U+02020
+title: Κώστας Βλάχος &#8224;
 
 # Is this the primary user of the site?
 superuser: true
