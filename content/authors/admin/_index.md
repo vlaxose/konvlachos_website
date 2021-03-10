@@ -17,7 +17,6 @@ bio:
 
 # Education to show in About widget
 education:
-- 1970
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
