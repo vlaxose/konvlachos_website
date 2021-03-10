@@ -6,7 +6,7 @@ title: Κώστας Βλάχος†
 superuser: true
 
 # Role/position/tagline
-role: Αναπληρωτής Καθηγητής
+role: Αναπληρωτής Καθηγητής, 1983-2011
 
 # Organizations/Affiliations to show in About widget
 organizations:
