@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Κώστας Βλάχος
+title: Κώστας Βλάχος<span>&#8224;</span>
 
 # Is this the primary user of the site?
 superuser: true
