@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-Hello world 😃
+<img src="media/konvlachos_army.jpg" />
