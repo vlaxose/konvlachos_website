@@ -8,4 +8,5 @@ design:
 ---
 
 <table><tr><td><img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200px" /></td>
-  <td><img src="media/konvlachos_90.jpg" alt="Konstantinos Vlachos 90s photo" width="200px" /></td></tr></table>
+  <td><img src="media/konvlachos_90s.jpg" alt="Konstantinos Vlachos 80s photo" width="200px" /></td>
+  <td><img src="media/konvlachos_90s.jpg" alt="Konstantinos Vlachos 90s photo" width="200px" /></td></tr></table>
