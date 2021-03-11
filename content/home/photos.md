@@ -7,6 +7,6 @@ design:
   columns: '2'
 ---
 
-<table><tr><td><img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200px" /></td>
-  <td><img src="media/konvlachos_90s.jpg" alt="Konstantinos Vlachos 80s photo" width="200px" /></td>
-  <td><img src="media/konvlachos_90s.jpg" alt="Konstantinos Vlachos 90s photo" width="200px" /></td></tr></table>
+<table><tr><td><img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" height="250px" /></td>
+  <td><img src="media/konvlachos_80s.jpg" alt="Konstantinos Vlachos 80s photo" height="250px" /></td>
+  <td><img src="media/konvlachos_90s.jpg" alt="Konstantinos Vlachos 90s photo" height="250px" /></td></tr></table>
