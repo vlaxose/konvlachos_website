@@ -4,7 +4,7 @@ widget_id: photos
 headless: true
 weight: 20
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 <img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200" />
