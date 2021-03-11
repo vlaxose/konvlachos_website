@@ -7,5 +7,5 @@ design:
   columns: '2'
 ---
 
-<table><tr><td><img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200" /></td>
-  <td><img src="media/konvlachos_90.jpg" alt="Konstantinos Vlachos 90s photo" height="300" /></td></tr></table>
+<table><tr><td><img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200px" /></td>
+  <td><img src="media/konvlachos_90.jpg" alt="Konstantinos Vlachos 90s photo" width="200px" /></td></tr></table>
