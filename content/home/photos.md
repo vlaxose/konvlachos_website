@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: hello
+widget_id: photos
 headless: true
-weight: 1
+weight: 20
 design:
   columns: '1'
 ---
