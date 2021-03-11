@@ -13,3 +13,4 @@ header:
   caption: ""
   image: ""
 ---
+<img src="media/konvlachos_army.jpg" />
