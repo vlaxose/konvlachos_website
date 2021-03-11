@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-<img src="media/konvlachos_army.jpg" />
+<img src="media/konvlachos_army.jpg" alt="Konstantinos Vlachos army photo" width="200" />
